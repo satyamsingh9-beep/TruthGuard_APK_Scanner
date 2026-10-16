@@ -1,0 +1,2 @@
+streamlit>=1.30.0
+androguard>=3.4.0
