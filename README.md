@@ -4,7 +4,7 @@
 > Developed by: **Team TruthGuard**
 
 ---
-![TruthGuard Dashboard](assets/dashboard.png)
+![TruthGuard Dashboard](./assets/dashboard.png)
 
 ## 📌 Problem Overview
 Modern Android malware and predatory apps often bypass standard perimeter defenses by requesting excessive device permissions and establishing malicious background network endpoints. Forensic analysis usually requires cumbersome command-line tools. 
