@@ -4,7 +4,10 @@
 > Developed by: **Team TruthGuard**
 
 ---
-
+## 👥 The Team
+- **Chandan Kumar** – Lead Architect & Forensic Core Engine (`app.py`, Static Triage)
+- **[Teammate 1 Name]** – Documentation, Threat Matrix & Research
+- **[Teammate 2 Name]** – Presentation, QA Testing & Evaluation
 ## 📌 Problem Overview
 Modern Android malware and predatory apps often bypass standard perimeter defenses by requesting excessive device permissions and establishing malicious background network endpoints. Forensic analysis usually requires cumbersome command-line tools. 
 
